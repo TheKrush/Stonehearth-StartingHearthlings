@@ -1,7 +1,7 @@
 {
    "constants": {
       "game_creation": {
-         "num_starting_citizens": 5
+         "num_starting_citizens": 6
       }
    }
 }
