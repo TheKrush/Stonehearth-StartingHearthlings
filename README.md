@@ -1,2 +1,2 @@
-# Starting Hearthlings (2 Hearthlings)
-Start with 2 Hearthlings in Stonehearth
+# Starting Hearthlings (Branches For Steam Workshop Mods)
+Start with X Hearthlings in Stonehearth (X is custom per branch)
