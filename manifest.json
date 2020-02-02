@@ -1,7 +1,7 @@
 {
     "info" : {
         "name" : "Starting Hearthlings (8 Hearthlings)",
-        "namespace" : "StartingHearthlings",
+        "namespace" : "StartingHearthlings-8",
         "version" : 3,
         "steam_file_id" : "1986192891"
     },
