@@ -1,9 +1,9 @@
 {
     "info" : {
-        "name" : "Starting Hearthlings (X Hearthlings)",
+        "name" : "Starting Hearthlings (2 Hearthlings)",
         "namespace" : "StartingHearthlings",
         "version" : 3,
-        "steam_file_id" : "XXX"
+        "steam_file_id" : "1986192518"
     },
     "default_locale" : "en",
     "aliases" : {},
